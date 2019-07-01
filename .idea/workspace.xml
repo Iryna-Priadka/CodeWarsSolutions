@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18de7b43-c036-4274-bfa9-3252af7ed0d4" name="Default Changelist" comment="Created new project">
-      <change afterPath="$PROJECT_DIR$/kuy_8/Capitalization and Mutability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuy_8/Remove First and Last Character.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kuy_8/Will you make it?.js" afterDir="false" />
+    <list default="true" id="18de7b43-c036-4274-bfa9-3252af7ed0d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Level_8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeWork_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork/homeWork_1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeWork_10.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork/homeWork_10.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +13,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kuy_8/Capitalization and Mutability.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kuy_8/The Feast of Many Beasts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kuy_8/Simple multiplication.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kuy_8/Student's Final Grade.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kuy_8/Type of sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kuy_8/Sleigh Authentication.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kuy_8/Switch it Up!.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -48,6 +87,17 @@
         <option value="$PROJECT_DIR$/kuy_8/Remove First and Last Character.js" />
         <option value="$PROJECT_DIR$/kuy_8/Will you make it?.js" />
         <option value="$PROJECT_DIR$/kuy_8/Capitalization and Mutability.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Opposite number.js" />
+        <option value="$PROJECT_DIR$/kuy_8/If you can't sleep, just count sheep!! .js" />
+        <option value="$PROJECT_DIR$/kuy_8/Convert a string to an array.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Determine offspring sex based on genes XX and XY chromosomes.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Thinkful - Logic Drills: Traffic light.js" />
+        <option value="$PROJECT_DIR$/kuy_8/The Feast of Many Beasts.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Simple multiplication.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Student's Final Grade.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Type of sum.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Sleigh Authentication.js" />
+        <option value="$PROJECT_DIR$/kuy_8/Switch it Up!.js" />
       </list>
     </option>
   </component>
@@ -87,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561967791632" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561970837906" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -132,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561740788901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added kuy solutions">
+      <created>1561967873029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561967873030</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added kuy_8 solutions">
+      <created>1561970720587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561970720587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -168,7 +232,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created new project" />
     <MESSAGE value="created homeWork_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="created homeWork_1" />
+    <MESSAGE value="added kuy solutions" />
+    <MESSAGE value="added kuy_8 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added kuy_8 solutions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -223,6 +289,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Opposite number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/If you can't sleep, just count sheep!! .js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Convert a string to an array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Determine offspring sex based on genes XX and XY chromosomes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Thinkful - Logic Drills: Traffic light.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/The Feast of Many Beasts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Simple multiplication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Student's Final Grade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Type of sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Sleigh Authentication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kuy_8/Switch it Up!.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
