@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18de7b43-c036-4274-bfa9-3252af7ed0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homeWork/homeWork_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWork/homeWork_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks | Codewars/String/sPoNgEbOb MeMe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeWork/homeWork_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork/homeWork_4.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tasks | Codewars/Initial level_kuy_8/The Feast of Many Beasts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tasks | Codewars/Initial level_kuy_8/Simple multiplication.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +78,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homeWork/homeWork_3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="444">
               <caret line="84" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homeWork/homeWork_4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tasks | Codewars/String/sPoNgEbOb MeMe.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -130,12 +139,14 @@
         <option value="$PROJECT_DIR$/kuy/kuy_7/Get list sum recursively.js" />
         <option value="$PROJECT_DIR$/homeWork/homeWork_2.js" />
         <option value="$PROJECT_DIR$/homeWork/homeWork_3.js" />
+        <option value="$PROJECT_DIR$/homeWork/homeWork_4.js" />
+        <option value="$PROJECT_DIR$/Tasks | Codewars/String/sPoNgEbOb MeMe.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="805" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -157,6 +168,22 @@
               <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="homeWork" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="kuy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Tasks | Codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Tasks | Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Initial level_kuy_8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -164,7 +191,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561972392157" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562098426109" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -238,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561971660305</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homeWork">
+      <created>1561972462030</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561972462030</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -276,7 +310,8 @@
     <MESSAGE value="created homeWork_1" />
     <MESSAGE value="added kuy solutions" />
     <MESSAGE value="added kuy_8 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added kuy_8 solutions" />
+    <MESSAGE value="homeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeWork" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -429,6 +464,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homeWork/homeWork_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tasks | Codewars/String/sPoNgEbOb MeMe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
